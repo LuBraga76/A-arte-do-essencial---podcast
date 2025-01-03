@@ -11,4 +11,8 @@ A voz do meu clone digital, foi gerada pela plataforma elevenlabs, que transform
 Aqui vão os resultados:<br>
 IMAGEM DE CAPA --- ![Arte de capa do podcast - A Arte do Essencial](https://github.com/user-attachments/assets/b986e12a-bff3-4f86-8923-b68125f78a22) <br>
 <br>
-ARQUIVO DE ÁUDIO ---
+ARQUIVO DE ÁUDIO (desculpa mandar em forma de vídeo com tela preta, mas o github não está deixando eu colocar o arquivo mp3) ---<br>
+
+https://github.com/user-attachments/assets/c0ac3628-dcb1-4329-a5e4-1ea657aff7ed
+
+
